@@ -8,7 +8,9 @@
 - 💞️ I’m open to collaborating on open-source projects and practical web application development.
 
 ## How to Reach Me
-- 📫 You can contact me via email or on social media.
+- 📫 Email: hassanali7303
+- 📸 Instagram: [@hasan_ali_askari](https://www.instagram.com/hasan_ali_askari)
+- 💼 LinkedIn: [Hassan Ali Askari](https://www.linkedin.com/in/hassan-ali-askari-280bb530a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## More About Me
 - 😄 Pronouns: He/Him
