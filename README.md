@@ -10,7 +10,7 @@
 ## How to Reach Me
 - 📫 Email: hassanali7303
 - 📸 Instagram: [@hasan_ali_askari](https://www.instagram.com/hasan_ali_askari)
-- 💼 LinkedIn: [Hassan Ali Askari](https://www.linkedin.com/in/hassan-ali-askari-280bb530a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 💼 LinkedIn: [Hassan Ali Askari](https://www.linkedin.com/in/hassan-ali-askari)
 
 ## More About Me
 - 😄 Pronouns: He/Him
