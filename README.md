@@ -2,7 +2,7 @@
 
 # Hi there! I'm Hassan 👋
 
-<img src="https://github.com/user-attachments/assets/8683e85d-c20b-4ae4-8b5e-73c71b5fdb14">
+<img style="box-shadow: 0 15px 25px rgba(0, 255, 255, 0.3), 0 10px 10px rgba(0, 255, 255, 0.2);box-shadow: 0 15px 25px rgba(0, 255, 255, 0.3), 0 10px 10px rgba(0, 255, 255, 0.2);" src="https://github.com/user-attachments/assets/8683e85d-c20b-4ae4-8b5e-73c71b5fdb14">
 
 ## About Me
 
