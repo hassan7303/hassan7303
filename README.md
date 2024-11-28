@@ -4,9 +4,9 @@
 
 <img style="width: 20%;height: 20%;"
              src="https://github.com/user-attachments/assets/8683e85d-c20b-4ae4-8b5e-73c71b5fdb14">
-
-## About Me
 <img align="right" src="https://github.com/user-attachments/assets/85371923-228b-4b0e-b3e6-24b5a60a1225" data-target="animated-image.originalImage">
+## About Me
+
 - 👀 I’m passionate about web development and programming.
 - 🌱 Currently improving my skills in PHP and the Laravel framework.
 - 💼 My main expertise lies in developing WordPress and WHMCS plugins.
