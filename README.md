@@ -42,10 +42,10 @@
 
 ## How to Reach Me ☎️
 
-- 📫 Email: hassanali7303
-- 🚀 Telegram:[hassan7303](https://t.me/hassan7303)
-- 📸 Instagram: [@hasan_ali_askari](https://www.instagram.com/hasan_ali_askari)
-- 💼 LinkedIn: [Hassan Ali Askari](https://www.linkedin.com/in/hassan-ali-askari)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hassan7303)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hasan_ali_askari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-ali-askari)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hassanali7303@gmail.com)
 
 ## More About Me
 
