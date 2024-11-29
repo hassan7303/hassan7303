@@ -38,8 +38,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={hassan7303}&theme=blue-green
-
+![laravel](https://github-readme-stats.vercel.app/api/top-langs/?username={hassan7303}&theme=blue-green)
 
 ## How to Reach Me ☎️
 
