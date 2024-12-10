@@ -42,8 +42,6 @@
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-## Used Languege In GIT
-![hassan7303](https://github-readme-stats.vercel.app/api/top-langs/?username=hassan7303&theme=blue-green)
 
 ## How to Reach Me ☎️
 
