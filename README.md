@@ -42,6 +42,25 @@
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+## 💎 Participation in open source projects
+
+I have participated in many open source projects as follows.
+
+<!-- domi -->
+[domi-forks-shield]: https://img.shields.io/github/forks/jobmetric/domi.svg?style=for-the-badge&label=Fork
+[domi-forks-url]: https://github.com/jobmetric/domi/network/members
+[domi-stars-shield]: https://img.shields.io/github/stars/jobmetric/domi.svg?style=for-the-badge
+[domi-stars-url]: https://github.com/jobmetric/domi/stargazers
+[domi-contributors-shield]: https://img.shields.io/github/contributors/jobmetric/domi.svg?style=for-the-badge
+[domi-contributors-url]: https://github.com/jobmetric/domi/graphs/contributors
+
+
+
+
+| Name                                                                       | Fork  | Star  | Contributor | Status |
+| :---:                                                                      | :---: | :---: | :---:       | :---:  |
+| [Domi](https://github.com/jobmetric/domi)                                  | [![Forks][domi-forks-shield]][domi-forks-url] | [![Stargazers][domi-stars-shield]][domi-stars-url] | [![Contributors][domi-contributors-shield]][domi-contributors-url] | Now Version 1.4
+
 
 ## How to Reach Me ☎️
 
