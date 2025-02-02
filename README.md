@@ -55,12 +55,12 @@ I have participated in many open source projects as follows.
 [phpStructure-contributors-url]: https://github.com/hassan7303/phpStructure/graphs/contributors
 
 <!-- Persian-to-english-number-converter -->
-[phpStructure-forks-shield]: https://img.shields.io/github/forks/hassan7303/Persian-to-english-number-converter.svg?style=for-the-badge&label=Fork
-[phpStructure-forks-url]: https://github.com/hassan7303/Persian-to-english-number-converter/network/members
-[phpStructure-stars-shield]: https://img.shields.io/github/stars/hassan7303/Persian-to-english-number-converter.svg?style=for-the-badge
-[phpStructure-stars-url]: https://github.com/hassan7303/Persian-to-english-number-converter/stargazers
-[phpStructure-contributors-shield]: https://img.shields.io/github/contributors/hassan7303/Persian-to-english-number-converter.svg?style=for-the-badge
-[phpStructure-contributors-url]: https://github.com/hassan7303/Persian-to-english-number-converter/graphs/contributors
+[Persian-to-english-number-converter-forks-shield]: https://img.shields.io/github/forks/hassan7303/Persian-to-english-number-converter.svg?style=for-the-badge&label=Fork
+[Persian-to-english-number-converter-forks-url]: https://github.com/hassan7303/Persian-to-english-number-converter/network/members
+[Persian-to-english-number-converter-stars-shield]: https://img.shields.io/github/stars/hassan7303/Persian-to-english-number-converter.svg?style=for-the-badge
+[Persian-to-english-number-converter-stars-url]: https://github.com/hassan7303/Persian-to-english-number-converter/stargazers
+[Persian-to-english-number-converter-contributors-shield]: https://img.shields.io/github/contributors/hassan7303/Persian-to-english-number-converter.svg?style=for-the-badge
+[Persian-to-english-number-converter-contributors-url]: https://github.com/hassan7303/Persian-to-english-number-converter/graphs/contributors
 
 
 | Name                                                                       | Fork  | Star  | Contributor | Status |
