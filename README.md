@@ -54,12 +54,19 @@ I have participated in many open source projects as follows.
 [phpStructure-contributors-shield]: https://img.shields.io/github/contributors/hassan7303/phpStructure.svg?style=for-the-badge
 [phpStructure-contributors-url]: https://github.com/hassan7303/phpStructure/graphs/contributors
 
-
+<!-- Persian-to-english-number-converter -->
+[phpStructure-forks-shield]: https://img.shields.io/github/forks/hassan7303/Persian-to-english-number-converter.svg?style=for-the-badge&label=Fork
+[phpStructure-forks-url]: https://github.com/hassan7303/Persian-to-english-number-converter/network/members
+[phpStructure-stars-shield]: https://img.shields.io/github/stars/hassan7303/Persian-to-english-number-converter.svg?style=for-the-badge
+[phpStructure-stars-url]: https://github.com/hassan7303/Persian-to-english-number-converter/stargazers
+[phpStructure-contributors-shield]: https://img.shields.io/github/contributors/hassan7303/Persian-to-english-number-converter.svg?style=for-the-badge
+[phpStructure-contributors-url]: https://github.com/hassan7303/Persian-to-english-number-converter/graphs/contributors
 
 
 | Name                                                                       | Fork  | Star  | Contributor | Status |
 | :---:                                                                      | :---: | :---: | :---:       | :---:  |
 | [phpStructure](https://github.com/hassan7303/phpStructure)                                  | [![Forks][phpStructure-forks-shield]][phpStructure-forks-url] | [![Stargazers][phpStructure-stars-shield]][phpStructure-stars-url] | [![Contributors][phpStructure-contributors-shield]][phpStructure-contributors-url] | Now Version 1.4
+| [Persian-to-english-number-converter](https://github.com/hassan7303/Persian-to-english-number-converter)                                  | [![Forks][Persian-to-english-number-converter-forks-shield]][pPersian-to-english-number-converter-forks-url] | [![Stargazers][Persian-to-english-number-converter-stars-shield]][Persian-to-english-number-converter-stars-url] | [![Contributors][Persian-to-english-number-converter-contributors-shield]][Persian-to-english-number-converter-contributors-url] | Now Version 1.4
 
 
 ## How to Reach Me ☎️
