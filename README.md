@@ -309,7 +309,8 @@ I have participated in many open source projects as follows.
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hassanali7303@gmail.com)
 
 # languege uses in repositories
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=hassan7303&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)]
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hassan7303&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ## More About Me
 
 - 😄 Pronouns: He
