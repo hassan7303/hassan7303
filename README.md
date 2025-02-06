@@ -308,6 +308,8 @@ I have participated in many open source projects as follows.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-ali-askari)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hassanali7303@gmail.com)
 
+# languege uses in repositories
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=hassan7303&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)]
 ## More About Me
 
 - 😄 Pronouns: He
