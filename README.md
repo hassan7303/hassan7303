@@ -145,6 +145,7 @@ I have participated in many open source projects as follows.
 [Finance-Tracker-contributors-url]: https://github.com/hassan7303/Finance-Tracker/graphs/contributors
 
 <!-- Financial-Management -->
+<!-- قابل استفاده هستش چون خالیه -->
 [Financial-Management-forks-shield]: https://img.shields.io/github/forks/hassan7303/Financial-Management.svg?style=for-the-badge&label=Fork
 [Financial-Management-forks-url]: https://github.com/hassan7303/Financial-Management/network/members
 [Financial-Management-stars-shield]: https://img.shields.io/github/stars/hassan7303/Financial-Management.svg?style=for-the-badge
@@ -278,7 +279,7 @@ I have participated in many open source projects as follows.
 | [draggable](https://github.com/hassan7303/draggable)                 | [![Forks][draggable-forks-shield]][draggable-forks-url] | [![Stargazers][draggable-stars-shield]][draggable-stars-url] | [![Contributors][draggable-contributors-shield]][draggable-contributors-url] |
 | [Easy-H2-Navigator](https://github.com/hassan7303/Easy-H2-Navigator) | [![Forks][Easy-H2-Navigator-forks-shield]][Easy-H2-Navigator-forks-url] | [![Stargazers][Easy-H2-Navigator-stars-shield]][Easy-H2-Navigator-stars-url] | [![Contributors][Easy-H2-Navigator-contributors-shield]][Easy-H2-Navigator-contributors-url] |
 | [Finance-Tracker](https://github.com/hassan7303/Finance-Tracker)     | [![Forks][Finance-Tracker-forks-shield]][Finance-Tracker-forks-url] | [![Stargazers][Finance-Tracker-stars-shield]][Finance-Tracker-stars-url] | [![Contributors][Finance-Tracker-contributors-shield]][Finance-Tracker-contributors-url] |
-| [Financial-Management](https://github.com/hassan7303/Financial-Management) | [![Forks][Financial-Management-forks-shield]][Financial-Management-forks-url] | [![Stargazers][Financial-Management-stars-shield]][Financial-Management-stars-url] | [![Contributors][Financial-Management-contributors-shield]][Financial-Management-contributors-url] |
+
 | [GF-meta-sync](https://github.com/hassan7303/GF-meta-sync)           | [![Forks][GF-meta-sync-forks-shield]][GF-meta-sync-forks-url] | [![Stargazers][GF-meta-sync-stars-shield]][GF-meta-sync-stars-url] | [![Contributors][GF-meta-sync-contributors-shield]][GF-meta-sync-contributors-url] |
 | [Iranian-access-shortcode](https://github.com/hassan7303/Iranian-access-shortcode) | [![Forks][Iranian-access-shortcode-forks-shield]][Iranian-access-shortcode-forks-url] | [![Stargazers][Iranian-access-shortcode-stars-shield]][Iranian-access-shortcode-stars-url] | [![Contributors][Iranian-access-shortcode-contributors-shield]][Iranian-access-shortcode-contributors-url] |
 | [kartable](https://github.com/hassan7303/kartable)                   | [![Forks][kartable-forks-shield]][kartable-forks-url] | [![Stargazers][kartable-stars-shield]][kartable-stars-url] | [![Contributors][kartable-contributors-shield]][kartable-contributors-url] |
