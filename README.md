@@ -279,6 +279,22 @@ I have participated in many open source projects as follows.
 [Product-contributors-shield]: https://img.shields.io/github/contributors/hassan7303/Product.svg?style=for-the-badge
 [Product-contributors-url]: https://github.com/hassan7303/Product/graphs/contributors
 
+<!-- ldhook -->
+[ldhook-forks-shield]: https://img.shields.io/github/forks/hassan7303/ldhook.svg?style=for-the-badge&label=Fork
+[ldhook-forks-url]: https://github.com/hassan7303/ldhook/network/members
+[ldhook-stars-shield]: https://img.shields.io/github/stars/hassan7303/ldhook.svg?style=for-the-badge
+[ldhook-stars-url]: https://github.com/hassan7303/ldhook/stargazers
+[ldhook-contributors-shield]: https://img.shields.io/github/contributors/hassan7303/ldhook.svg?style=for-the-badge
+[ldhook-contributors-url]: https://github.com/hassan7303/ldhook/graphs/contributors
+
+<!-- learning_c -->
+[learning_c-forks-shield]: https://img.shields.io/github/forks/hassan7303/learning_c.svg?style=for-the-badge&label=Fork
+[learning_c-forks-url]: https://github.com/hassan7303/learning_c/network/members
+[learning_c-stars-shield]: https://img.shields.io/github/stars/hassan7303/learning_c.svg?style=for-the-badge
+[learning_c-stars-url]: https://github.com/hassan7303/learning_c/stargazers
+[learning_c-contributors-shield]: https://img.shields.io/github/contributors/hassan7303/learning_c.svg?style=for-the-badge
+[learning_c-contributors-url]: https://github.com/hassan7303/learning_c/graphs/contributors
+
 <!-- RepoCloner -->
 [RepoCloner-forks-shield]: https://img.shields.io/github/forks/hassan7303/RepoCloner.svg?style=for-the-badge&label=Fork
 [RepoCloner-forks-url]: https://github.com/hassan7303/RepoCloner/network/members
