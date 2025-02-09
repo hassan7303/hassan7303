@@ -3,9 +3,15 @@
 # Hi there! I'm Hassan 👋
 
 <img style="width: 20%;height: 20%;"
-             src="https://github.com/user-attachments/assets/8683e85d-c20b-4ae4-8b5e-73c71b5fdb14">
-             <img align="right" alt="GIF" src="https://private-user-images.githubusercontent.com/88213553/348585527-55b18927-2c24-49dd-89a1-b34165914919.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzkwOTQ3MDYsIm5iZiI6MTczOTA5NDQwNiwicGF0aCI6Ii84ODIxMzU1My8zNDg1ODU1MjctNTViMTg5MjctMmMyNC00OWRkLTg5YTEtYjM0MTY1OTE0OTE5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjA5VDA5NDY0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIwNDI0NjU1NmVmMzZkZjg5MjdjNWFhMmNmN2RjMGU0Y2UzNjQwOTgzNDMwNjYwN2NkMWIwNTIwZDAzZjZiMDYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.S1dXbjU2OKoOqj9m5sUMuVCJsMknB3zUqjAG4KpntiM" width="360px" style="max-width: 100%;">
+src="https://github.com/user-attachments/assets/8683e85d-c20b-4ae4-8b5e-73c71b5fdb14">
+
+<img style="width: 20%;height: 20%;"
+src="https://github.com/user-attachments/assets/5a5ff8ce-011f-4bcf-83a1-67aa5a7c4a2a">
+
+<img align="right" alt="GIF" src="https://private-user-images.githubusercontent.com/88213553/348585527-55b18927-2c24-49dd-89a1-b34165914919.png?  jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzkwOTQ3MDYsIm5iZiI6MTczOTA5NDQwNiwicGF0aCI6Ii84ODIxMzU1My8zNDg1ODU1MjctNTViMTg5MjctMmMyNC00OWRkLTg5YTEtYjM0MTY1OTE0OTE5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjA5VDA5NDY0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIwNDI0NjU1NmVmMzZkZjg5MjdjNWFhMmNmN2RjMGU0Y2UzNjQwOTgzNDMwNjYwN2NkMWIwNTIwZDAzZjZiMDYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.S1dXbjU2OKoOqj9m5sUMuVCJsMknB3zUqjAG4KpntiM" width="360px" style="max-width: 100%;">
+<!--  
 <img align="right" src="https://github.com/user-attachments/assets/85371923-228b-4b0e-b3e6-24b5a60a1225" data-target="animated-image.originalImage">
+-->
 ## About Me
 
 - 👀 I’m passionate about web development and programming.
